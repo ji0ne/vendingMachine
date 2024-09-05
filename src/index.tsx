@@ -13,7 +13,15 @@ root.render(
   </React.StrictMode>
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+
+//   - 음료명 / 가격 입력 + 투하
+//  - 투하한 음료 리스트에 추가 
+
+reportWebVitals(); 
+
+
+
+
+
+
+
